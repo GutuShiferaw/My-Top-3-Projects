@@ -1,7 +1,7 @@
 # My-Top-3-Projects
 ## This is a selection of my three best projects.
 1. The first project is a Game prediction App i made by training a machine learning Model. I worked on this project when i took my AI course, I was thinking of a way i could implement what i learnt on a real life application.I Created this App by training a Gradient Boosting Machine learning model over a huge FiFa Data set. The App is  a basic Pyhton UI made using the tkinter pyhton modlue and it predicts soccer match outcomes betweeen two teams. 
-2. The Second project is an application to control an LED light using a Raspberry Pi and a locally hosted Django server.
+2. The Second project is called DropTemp  a thermostat application to control an LED light using a Raspberry Pi and a locally hosted Django server.
     Rough code structure is as follows
     piSensor.py - Python code to be ran on the Pi to control the LED and handle the photoresistor. The PIN variables can be changed to any valid GPIO pin if needed.
    
@@ -20,4 +20,4 @@
     models.py - Setting up simple classes for Mode and State, both only containing one field for the name and one overwritten function to return its own name when cast as a string.
    
    The reason why I worked on this project was to make use of the knowledge i have on embeded devices and cloud prpgramming to make a product that can be used for multpile purposes. 
-
+3. My third and biggest project is called "Microgrids for rular communities in canada". In this project i worked with a team of electrical engineers to simulate a working microgrid in a rular community in nanuvat canada. In this project i was tasked to develop a Gui Microcontroller solution using Django framework. I created a user interface aswell as APIs to connect the controller to the microgrid. What we have here is a Django web appication for the front end side of the project. It includes the overview of the microgrid aswell as a tool i built to calculate optimal metrics for the grid. The reason why i participated in this project was to help reduce the large diesel consumption in this communities and help the planet go greener by using alternative renewable resources. 
